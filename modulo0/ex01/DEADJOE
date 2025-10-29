@@ -1,0 +1,12 @@
+
+*** These modified files were found in JOE when it aborted on Fri Oct 17 23:33:45 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/media/sf_partilha/modulo0/ex01/main.c
+
+*** File '* Startup Log *'
+Processing '/etc/joe/jmacsrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/jmacsrc
