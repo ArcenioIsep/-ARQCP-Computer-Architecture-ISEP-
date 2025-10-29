@@ -11,7 +11,7 @@
 
 This repository contains the **assignments, exercises, and projects** developed for the **ARQCP – Computer Architecture** course at the *Instituto Superior de Engenharia do Porto (ISEP)*.
 
-The goal of the course is to understand how a computer operates at a **low level** — from hardware to software — through practical work in **C** and **Assembly** programming.
+The course focuses on understanding how a computer works at a **low level**, from **hardware to software**, by developing practical skills in **C programming** and **Assembly language**.
 
 ---
 
@@ -28,7 +28,7 @@ The goal of the course is to understand how a computer operates at a **low level
 
 ### 🎯 Objective
 
-Build a **solid understanding of computer architecture** and the **interaction between software and hardware**, providing a foundation for advanced topics like **Operating Systems**, **Compilers**, and **Software Engineering**.
+To build a **solid understanding of computer architecture** and how **software interacts with hardware**, forming a foundation for advanced areas such as **Operating Systems**, **Compilers**, and **Software Engineering**.
 
 ---
 
@@ -41,4 +41,25 @@ Build a **solid understanding of computer architecture** and the **interaction b
 
 ---
 
-Would you like me to add a **“Project Structure”** section (with folders like `/src`, `/assembly`, `/docs`, etc.) to make it look even more complete for GitHub?
+### 📁 Project Structure
+
+```
+ARQCP/
+├── src/                # C source files (.c)
+├── include/            # Header files (.h)
+├── assembly/           # Assembly programs (RISC-V / x86)
+├── docs/               # Documentation and reports
+├── makefile            # Build configuration
+└── README.md           # Project description
+```
+
+---
+
+### 🧑‍💻 Author
+
+**Arcenio Salvado**
+📍 Student at [ISEP – Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt)
+🎓 Computer Engineering | ARQCP Course
+
+---
+
